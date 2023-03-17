@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/todoApp-react/static/css/main.1a4dd290.css",
-    "main.js": "/todoApp-react/static/js/main.b707ba76.js",
-    "index.html": "/todoApp-react/index.html",
-    "main.1a4dd290.css.map": "/todoApp-react/static/css/main.1a4dd290.css.map",
-    "main.b707ba76.js.map": "/todoApp-react/static/js/main.b707ba76.js.map"
+    "main.css": "/curso-intermedio-React/static/css/main.1a4dd290.css",
+    "main.js": "/curso-intermedio-React/static/js/main.b707ba76.js",
+    "index.html": "/curso-intermedio-React/index.html",
+    "main.1a4dd290.css.map": "/curso-intermedio-React/static/css/main.1a4dd290.css.map",
+    "main.b707ba76.js.map": "/curso-intermedio-React/static/js/main.b707ba76.js.map"
   },
   "entrypoints": [
     "static/css/main.1a4dd290.css",
